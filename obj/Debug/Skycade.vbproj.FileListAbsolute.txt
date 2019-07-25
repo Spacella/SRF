@@ -1,0 +1,11 @@
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.Form1.resources
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.Resources.resources
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.vbproj.GenerateResource.cache
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.vbproj.CoreCompileInputs.cache
+C:\Users\William Brandon\source\repos\Skycade\Skycade\bin\Debug\Skycade.exe
+C:\Users\William Brandon\source\repos\Skycade\Skycade\bin\Debug\Skycade.pdb
+C:\Users\William Brandon\source\repos\Skycade\Skycade\bin\Debug\Skycade.xml
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.exe
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.xml
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.pdb
+C:\Users\William Brandon\source\repos\Skycade\Skycade\obj\Debug\Skycade.vbprojAssemblyReference.cache
